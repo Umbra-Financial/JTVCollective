@@ -1,0 +1,21 @@
+{
+    "image": "9.gif",
+    "attributes": [
+      {
+        "trait_type": "Base Color",
+        "value": "White"
+      },
+      {
+        "trait_type": "Background Color",
+        "value": "White"
+      },
+      {
+        "trait_type": "Logo",
+        "value": "Pyramid-Yang"
+      },
+     {
+        "trait_type": "Level",
+        "value": "TBD"
+      }
+    ]
+  }

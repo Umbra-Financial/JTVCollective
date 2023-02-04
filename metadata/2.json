@@ -1,17 +1,17 @@
 {
-  "image": "1.gif",
+  "image": "2.gif",
   "attributes": [
     {
       "trait_type": "Base Color",
-      "value": "Yellow"
+      "value": "Purple"
     },
     {
       "trait_type": "Background Color",
-      "value": "Blue and Gold"
+      "value": "Orange and Purple"
     },
     {
       "trait_type": "Logo",
-      "value": "The OG"
+      "value": "The Classic"
     },
    {
       "trait_type": "Level",

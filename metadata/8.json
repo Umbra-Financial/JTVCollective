@@ -1,0 +1,21 @@
+{
+    "image": "8.gif",
+    "attributes": [
+      {
+        "trait_type": "Base Color",
+        "value": "Light Blue"
+      },
+      {
+        "trait_type": "Background Color",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Logo",
+        "value": "The Comic"
+      },
+     {
+        "trait_type": "Level",
+        "value": "TBD"
+      }
+    ]
+  }

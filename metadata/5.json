@@ -1,0 +1,22 @@
+{
+    "image": "5.gif",
+    "attributes": [
+      {
+        "trait_type": "Base Color",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Background Color",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Logo",
+        "value": "The Stamp"
+      },
+     {
+        "trait_type": "Level",
+        "value": "TBD"
+      }
+    ]
+  }
+  
