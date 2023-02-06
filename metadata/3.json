@@ -1,8 +1,8 @@
 {
  "name": "Collective Pass: The Row",
   "description": "The Row",
-  "image": "",
-  "animation_url": "",
+  "image": "https://raw.githubusercontent.com/Umbra-Financial/JTVCollective/main/media/The%20Row/The%20Row.png",
+  "animation_url": "https://raw.githubusercontent.com/Umbra-Financial/JTVCollective/main/media/The%20Row/The%20Row.gif",
   "external_url": "https://discord.gg/74gWKFwHNZ",
 
   "attributes": [
