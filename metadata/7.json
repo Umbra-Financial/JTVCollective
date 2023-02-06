@@ -1,8 +1,8 @@
 {
  "name": "Collective Pass: SuperFast II",
   "description": "SuperFast II",
-  "image": "",
-  "animation_url": "",
+  "image": "https://raw.githubusercontent.com/Umbra-Financial/JTVCollective/main/media/SuperFast%20II/Superfast%20II.png",
+  "animation_url": "https://raw.githubusercontent.com/Umbra-Financial/JTVCollective/main/media/SuperFast%20II/SuperFast%20II.gif",
   "external_url": "https://discord.gg/74gWKFwHNZ",
 
   "attributes": [
