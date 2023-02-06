@@ -1,8 +1,8 @@
 {
   "name": "Collective Pass: Pyramid-Yang",
   "description": "Pyramid-Yang",
-  "image": "",
-  "animation_url": "",
+  "image": "https://raw.githubusercontent.com/Umbra-Financial/JTVCollective/main/media/Pyramid-Yang/Pyramid-Yang.png",
+  "animation_url": "https://raw.githubusercontent.com/Umbra-Financial/JTVCollective/main/media/Pyramid-Yang/Pyramid-Yang.gif",
   "external_url": "https://discord.gg/74gWKFwHNZ",
 
   "attributes": [
