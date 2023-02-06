@@ -1,6 +1,11 @@
 {
-    "image": "https://github.com/Umbra-Financial/JTVCollective/blob/main/media/7.gif?raw=true",
-    "attributes": [
+ "name": "Collective Pass: SuperFast II",
+  "description": "SuperFast II",
+  "image": "",
+  "animation_url": "",
+  "external_url": "https://discord.gg/74gWKFwHNZ",
+
+  "attributes": [
       {
         "trait_type": "Base Color",
         "value": "Purple"
@@ -11,7 +16,7 @@
       },
       {
         "trait_type": "Logo",
-        "value": "Superfast II"
+        "value": "SuperFast II"
       },
      {
         "trait_type": "Level",
