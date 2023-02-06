@@ -1,8 +1,8 @@
 {
   "name": "Collective Pass: The Stamp",
   "description": "The Stamp",
-  "image": "",
-  "animation_url": "",
+  "image": "https://raw.githubusercontent.com/Umbra-Financial/JTVCollective/main/media/The%20Stamp/The%20Stamp.png",
+  "animation_url": "https://raw.githubusercontent.com/Umbra-Financial/JTVCollective/blob/main/media/The%20Stamp/The%20Stamp.gif",
   "external_url": "https://discord.gg/74gWKFwHNZ",
 
   "attributes": [
