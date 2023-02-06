@@ -1,8 +1,8 @@
 {
   "name": "The OG",
   "description": "The JTV Collective Pass",
-  "image": "",
-  "animation_url": "",
+  "image": "https://raw.githubusercontent.com/Umbra-Financial/JTVCollective/main/media/The%20OG/The%20OG.png",
+  "animation_url": "https://raw.githubusercontent.com/Umbra-Financial/JTVCollective/main/media/1.gif",
   "external_url": "https://discord.gg/74gWKFwHNZ",
   "attributes": [
     {
