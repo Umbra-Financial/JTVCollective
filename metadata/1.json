@@ -2,7 +2,7 @@
   "name": "JTV Collective Pass",
   "description": "Street Creds Yo",
   "image": "https://raw.githubusercontent.com/Umbra-Financial/JTVCollective/main/media/1-thumbnail.jpg",
-  "animation_url": "https://github.com/Umbra-Financial/JTVCollective/blob/main/media/1.gif?raw=true",
+  "animation_url": "https://raw.githubusercontent.com/Umbra-Financial/JTVCollective/main/media/1.gif",
   "attributes": [
     {
       "trait_type": "Base Color",
