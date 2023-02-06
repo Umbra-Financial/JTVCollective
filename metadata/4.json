@@ -1,6 +1,12 @@
 {
-    "image": "https://github.com/Umbra-Financial/JTVCollective/blob/main/media/4.gif?raw=true",
-    "attributes": [
+    "name": "Collective Pass: Pyramid-Ying",
+  "description": "Pyramid-Ying",
+  "image": "",
+  "animation_url": "",
+  "external_url": "https://discord.gg/74gWKFwHNZ",
+
+  "attributes": [
+      
       {
         "trait_type": "Base Color",
         "value": "Purple"
