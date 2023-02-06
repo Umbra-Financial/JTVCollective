@@ -1,6 +1,11 @@
 {
-    "image": "https://github.com/Umbra-Financial/JTVCollective/blob/main/media/8.gif?raw=true",
-    "attributes": [
+ "name": "Collective Pass: The Comic",
+  "description": "The Comic",
+  "image": "",
+  "animation_url": "",
+  "external_url": "https://discord.gg/74gWKFwHNZ",
+
+  "attributes": [
       {
         "trait_type": "Base Color",
         "value": "Light Blue"
