@@ -1,8 +1,9 @@
 {
   "name": "The OG",
-  "description": "The JTV Collective Pass... Lvl: ?... Our Discord: https://discord.gg/74gWKFwHNZ",
+  "description": "The JTV Collective Pass... Lvl: ?...,
   "image": "",
   "animation_url": "",
+  "external_url": "https://discord.gg/74gWKFwHNZ",
   "attributes": [
     {
       "trait_type": "Base Color",
