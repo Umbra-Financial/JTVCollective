@@ -1,0 +1,17 @@
+{
+  "name": "The Silver Counsel Pass",
+  "description": "The Silver Counsel Pass",
+  "image": "https://raw.githubusercontent.com/Umbra-Financial/JTVCollective/main/media/The%20Counsel%20Pass%20%7BSilver%7D/Counsel%20Pass%20VSilver.png",
+  "external_url": "https://discord.gg/74gWKFwHNZ",
+
+  "attributes": [
+      {
+        "trait_type": "Base",
+        "value": "Silver"
+      {
+        "trait_type": "Rarity",
+        "value": "1/10"
+      },
+      },
+    ]
+  }
