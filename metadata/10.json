@@ -1,0 +1,17 @@
+{
+  "name": "The Original Counsel Pass",
+  "description": "The Original Counsel Pass",
+  "image": "https://raw.githubusercontent.com/Umbra-Financial/JTVCollective/main/media/The%20Counsel%20Pass%20%7BOriginal%7D/Counsel%20Pass%20V5.png",
+  "external_url": "https://discord.gg/74gWKFwHNZ",
+
+  "attributes": [
+      {
+        "trait_type": "Base",
+        "value": "Original"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "1/289"
+      },
+    ]
+  } 
